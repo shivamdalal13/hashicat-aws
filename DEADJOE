@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Wed Jan 13 16:36:18 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+q
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/COMMIT_EDITMSG
+
+*** File '/root/hashicat-aws/.git/COMMIT_EDITMSG'
+Test
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@p-u4jf0jx16lnl-workstation.c.instruqt-prod.internal>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    terraform.tfvars.example
+#
+# Untracked files:
+#	remote_backend.tf
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
